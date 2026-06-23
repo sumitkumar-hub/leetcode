@@ -26,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sumitkumar-hub/leetcode/tree/master/0029-divide-two-integers) |
+| [0401-binary-watch](https://github.com/sumitkumar-hub/leetcode/tree/master/0401-binary-watch) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/sumitkumar-hub/leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
