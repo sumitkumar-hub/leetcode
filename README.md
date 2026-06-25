@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sumitkumar-hub/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
