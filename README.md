@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitkumar-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sumitkumar-hub/leetcode/tree/master/0012-integer-to-roman) |
+| [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitkumar-hub/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/sumitkumar-hub/leetcode/tree/master/0401-binary-watch) |
 ## Array
 |  |
@@ -151,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
