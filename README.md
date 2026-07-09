@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumitkumar-hub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sumitkumar-hub/leetcode/tree/master/0682-baseball-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumitkumar-hub/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sumitkumar-hub/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/sumitkumar-hub/leetcode/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sumitkumar-hub/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
