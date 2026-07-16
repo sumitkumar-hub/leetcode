@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitkumar-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sumitkumar-hub/leetcode/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/sumitkumar-hub/leetcode/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumitkumar-hub/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
