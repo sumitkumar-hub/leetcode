@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/sumitkumar-hub/leetcode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitkumar-hub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sumitkumar-hub/leetcode/tree/master/0217-contains-duplicate) |
