@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumitkumar-hub/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumitkumar-hub/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sumitkumar-hub/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sumitkumar-hub/leetcode/tree/master/0682-baseball-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sumitkumar-hub/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitkumar-hub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sumitkumar-hub/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/sumitkumar-hub/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sumitkumar-hub/leetcode/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumar-hub/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sumitkumar-hub/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumitkumar-hub/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/sumitkumar-hub/leetcode/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumar-hub/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sumitkumar-hub/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sumitkumar-hub/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
