@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sumitkumar-hub/leetcode/tree/master/0392-is-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitkumar-hub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0169-majority-element) |
@@ -212,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sumitkumar-hub/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
