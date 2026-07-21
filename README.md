@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/sumitkumar-hub/leetcode/tree/master/0392-is-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sumitkumar-hub/leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/sumitkumar-hub/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
