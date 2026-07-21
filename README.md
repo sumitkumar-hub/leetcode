@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitkumar-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sumitkumar-hub/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/sumitkumar-hub/leetcode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumitkumar-hub/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumitkumar-hub/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitkumar-hub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sumitkumar-hub/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0268-missing-number) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sumitkumar-hub/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sumitkumar-hub/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sumitkumar-hub/leetcode/tree/master/0349-intersection-of-two-arrays) |
