@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitkumar-hub/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sumitkumar-hub/leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/sumitkumar-hub/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/sumitkumar-hub/leetcode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sumitkumar-hub/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sumitkumar-hub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sumitkumar-hub/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitkumar-hub/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sumitkumar-hub/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sumitkumar-hub/leetcode/tree/master/0682-baseball-game) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitkumar-hub/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sumitkumar-hub/leetcode/tree/master/0496-next-greater-element-i) |
 ## Breadth-First Search
 |  |
