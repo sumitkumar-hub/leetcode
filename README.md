@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumitkumar-hub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sumitkumar-hub/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/sumitkumar-hub/leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/sumitkumar-hub/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/sumitkumar-hub/leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/sumitkumar-hub/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/sumitkumar-hub/leetcode/tree/master/0257-binary-tree-paths) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sumitkumar-hub/leetcode/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/sumitkumar-hub/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/sumitkumar-hub/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/sumitkumar-hub/leetcode/tree/master/0036-valid-sudoku) |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sumitkumar-hub/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sumitkumar-hub/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
